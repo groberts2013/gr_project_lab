@@ -1,3 +1,6 @@
 file 3
 has three
 lines of text
+here is a fourth line from cc
+and a 5th,
+followed by a 6th
