@@ -1,3 +1,4 @@
 file 2
 has three
 lines of text
+<inserted one line of text.>
